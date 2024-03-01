@@ -2,10 +2,10 @@ package prueba;
 public class ImprimeEdad {
 	public static void main(String[] args) {
 
-		int edad=45; 
+		int edad=12; 
 		System.out.println (edad);
 
-		edad=85;
+		edad=30;
 		System.out.println (edad);
 
 	}
